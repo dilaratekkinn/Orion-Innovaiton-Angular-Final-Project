@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Arapey:ital@1&display=swap");
+
+
+.item h6{
+  padding:40px 40px 0 0 ;
+  font-size: 15px;
+}
+.item a:hover{
+color: #f8a48d;;
+
+}
+
+.btn-outline-primary {
+  color: #212529;
+  border-color: #f8a48d;
+}
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #f8a48d;
+  border-color: #f8a48d;
+}
+
+
+.column {
+   width: 33.7%;
+   margin: 0px -300px 0px 300px ;
+}
+
+a{
+  color: rgba(0,0,0,.9);
+
+}
+a:link {
+  text-decoration: none;
+  font-size: 15px;
+}
+
+a:hover {
+  background-color: #f8a48d;;
+  transition: background-color .5s;
+}

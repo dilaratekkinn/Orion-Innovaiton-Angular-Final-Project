@@ -1,0 +1,76 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="card">
+        <div class="text-center">
+          <h1
+            style="
+              border: 5px solid #fff;
+              border-radius: 12px;
+              padding: 5px;
+              font-weight: 100;
+            "
+          >
+            Hoşgeldiniz,Giriş Yapınız!
+          </h1>
+          <h6 style="font-size: 12px">
+            *E-mail Adresinizi Ve Şifrenizi Giriniz
+          </h6>
+        </div>
+        <form [formGroup]="loginForm" (ngSubmit)="login()">
+          <div class="form-group">
+            <label for="exampleInputEmail1">E-mail adresi</label>
+            <input
+              formControlName="email"
+              type="email"
+              class="form-control"
+              id="exampleInputEmail1"
+              aria-describedby="emailHelp"
+              placeholder="Email Adresi..."
+            />
+            <span
+              class="text-danger"
+              *ngIf="
+                loginForm.controls['email'].dirty &&
+                loginForm.hasError('required', 'email')
+              "
+              >E-mail Adresi Boş Bırakılmaz!</span
+            >
+          </div>
+          <div class="form-group">
+            <label for="exampleInputPassword1">Şifre</label>
+            <input
+              formControlName="password"
+              type="password"
+              class="form-control"
+              id="exampleInputPassword1"
+              placeholder="Şifre..."
+            />
+            <span
+              class="text-danger"
+              *ngIf="
+                loginForm.controls['password'].dirty &&
+                loginForm.hasError('required', 'password')
+              "
+              >Şifre Boş Bırakılamaz !</span
+            >
+          </div>
+          <button
+            style="
+              margin-top: 12px;
+              background-color: #353433;
+              border-color: #353433;
+            "
+            type="submit"
+            class="btn btn-primary mb-2"
+          >
+            Giriş Yap
+          </button>
+        </form>
+        <a class="link" routerLink="/register"
+          >*Henüz Üye Değil Misiniz? Hemen Üye Olun!</a
+        >
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Arapey:ital@1&display=swap");
+
+.card-top {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  height: 60px;
+  word-wrap: break-word;
+  background-color: #f8a48d;
+  background-clip: border-box;
+  border-radius: 0.25rem;
+}
+
+
+a:link {
+  text-decoration: none;
+}
+
+.item h2 {
+  padding: 18px;
+  margin: 0px 5px;
+  font-size: 18px;
+  color: #fff;
+}
+
+
+
+#wrapper {
+  max-width: 1050px;
+  margin: 30px auto 30px auto;
+  background-color: #DDD
+}
+#outer {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+.itemwrapper {
+  display: table-cell;
+  vertical-align: top;
+  width: 100%;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}

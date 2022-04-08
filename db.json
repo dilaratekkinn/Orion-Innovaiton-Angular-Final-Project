@@ -1,0 +1,392 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "title": "Aura Ayın Taşı Aquamarine Kolye",
+      "price": 6.0105,
+      "code": "RL07499",
+      "features": "14 Ayar | 4,13 Gr. Sarı Altın",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir",
+      "category": "Kolye",
+      "image": "https://atasay.akinoncdn.com/products/2022/03/01/35490/923b779f-508f-47db-a20b-5e0fef87b187_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 2,
+      "title": "0,03 Ct. Pırlanta Kolye Simulant Taşlı",
+      "price": 5.34,
+      "code": "RL07494",
+      "features": " 8 Ayar | 2,15 Gr. Beyaz Pırlanta | 0,03 Ct. Pırlanta",
+      "category": "Kolye",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/05/19815/a6d5c901-985b-4fed-87e5-adbff002be0d_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 3,
+      "title": "0,12 Ct. Pırlanta Kolye Simulant Taşlı",
+      "price": 12.43,
+      "code": "RL07494",
+      "features": "8 Ayar | 1,26 Gr. Beyaz Pırlanta | 0,12 Ct. Pırlanta",
+      "category": "Kolye",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir",
+      "image": "https://atasay.akinoncdn.com/products/2021/12/09/29991/29bd101b-0e8b-4f8d-acc4-bb0b60abe675_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 4,
+      "title": "0,11 Ct. Pırlanta Kolye",
+      "price": 6.55,
+      "code": "ELL5719",
+      "features": "8 Ayar | 2,12 Gr. Kırmızı Pırlanta | 0,11 Ct. Pırlanta",
+      "category": "Kolye",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir",
+      "image": "https://atasay.akinoncdn.com/products/2022/02/24/34763/acae9b62-365b-4d2f-8e3a-f41885f833e9_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 5,
+      "title": "0,45 Ct. Pırlanta Kolye",
+      "price": 5.3,
+      "code": "14KLY1409",
+      "features": " 8 Ayar | 1,96 Gr. Beyaz Pırlanta | 0,45 Ct. Pırlanta",
+      "category": "Kolye",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/05/15562/177f59ea-6a65-49fc-a03d-1dbd96a6d398_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 5,
+      "title": "0,18 Ct. Pırlanta Kolye",
+      "price": 2.44,
+      "code": "14KLY1242",
+      "features": " 8 Ayar | 2,85 Gr. Kırmızı Pırlanta | 0,18 Ct. Pırlanta",
+      "category": "Kolye",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2022/02/18/34257/30ea53f8-a60b-449d-bb0f-07f0feb6a5c0_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 6,
+      "title": "0,04 Ct. Pırlanta Kolye",
+      "price": 1.14,
+      "code": "14YZK1774",
+      "features": " 14 Ayar | 3,68 Gr. Kırmızı Pırlanta | 0,04 Ct. Pırlanta",
+      "category": "Kolye",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/05/25079/4306682e-6f63-4b95-b634-0b3d9f5d9882_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 7,
+      "title": "0,07 Ct. Pırlanta Kolye",
+      "price": 1.901,
+      "code": "14YZK1700",
+      "features": " 14 Ayar | 3,98 Gr. Kırmızı Pırlanta | 0,07 Ct. Pırlanta",
+      "category": "Kolye",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2022/02/18/34135/39750a63-ccdd-4874-aa73-949ee7c49e07_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Göbeklitepe Koleksiyonu Sarı Altın Yüzük",
+      "price": 3.1,
+      "code": "KCK0047",
+      "features": " M14 Ayar | 6,18 Gr. Sarı Altın",
+      "category": "Yüzük",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/09/25439/f49e7171-c8e7-41fe-8b82-0cd99b4f9593_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 9,
+      "title": "KEŞF-İ İSTANBUL Koleksiyonu Sarı Altın Yüzük",
+      "price": 2.21,
+      "code": "KCK0020",
+      "features": " 14 Ayar | 6,18 Gr. Sarı Altın",
+      "category": "Yüzük",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2022/02/04/33887/6f25a7f7-2e2f-4756-9395-c800b3f9a70c_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Aura Ayın Taşı Ametist Yüzük",
+      "price": 2.09,
+      "code": "14YZK1649",
+      "features": " 14 Ayar | 3,08 Gr. Kırmızı Altın",
+      "category": "Yüzük",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2022/01/31/33274/b594a951-3645-40c4-969e-e7dc3976f75f_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Aura Ayın Taşı Citrine Yüzük",
+      "price": 2.49,
+      "code": "14HL158",
+      "features": " 14 Ayar | 3,69 Gr. Sarı Altın",
+      "category": "Yüzük",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/17/26216/6ee39c89-a073-4490-bd5a-91c52e7dac88_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Aura Ayın Taşı Ruby Yüzük",
+      "price": 4.17,
+      "code": "14BLK995",
+      "features": " 14 Ayar | 4,20 Gr. Kırmızı Altın",
+      "category": "Yüzük",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2021/12/31/31224/80613533-374c-4742-9559-8b60d7188cfd_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Aura Ayın Taşı Grey Moonstone Yüzük",
+      "price": 2,
+      "code": "14BLK1346",
+      "features": " Maden: Altın, Renk: Sarı,Ağırlık: 1.55 gr Ayar: 14K",
+      "category": "Yüzük",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2021/12/02/29493/d9238cc4-c94b-415d-a7dc-e931f4fc07df_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 14,
+      "title": "MYSTIQUE Koleksiyonu Sarı Altın Yüzük",
+      "price": 4.34,
+      "code": "14BLK1341",
+      "features": " 14 Ayar | 4,02 Gr. Sarı Altın",
+      "category": "Yüzük",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/09/26325/1af0c2c9-a5ab-4f2a-ac43-1e96c5398043_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Göbeklitepe Koleksiyonu Kırmızı Altın Yüzük",
+      "price": 5.1,
+      "code": "14BLK1337",
+      "features": "14 Ayar | 9,80 Gr. Kırmızı Altın",
+      "category": "Yüzük",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/09/25539/3429f07c-f592-477b-bc97-952b5b5f29ab_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Göbeklitepe Koleksiyonu Yüzü",
+      "price": 3.15,
+      "code": "14KUP1496",
+      "features": " 14 Ayar | 6,51 Gr. Sarı Altın",
+      "category": "Yüzük",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/09/25456/9fd79825-d034-4891-a7c8-d1f353e85270_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Sarı Altın Panda Çocuk Kolye",
+      "price": 3.13,
+      "code": "KCK0021",
+      "features": " 14 Ayar | 1,70 Gr. Sarı Altın",
+      "category": "Kolye",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2022/02/04/33836/82bb06f1-0a3a-4f04-a368-258946355d68_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Altın Charm Bileklik",
+      "price": 1.98,
+      "code": "14KUP1380",
+      "features": "14 Ayar | 7,95 Gr. Sarı-Kırmızı Altın",
+      "category": "Bileklik",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/05/15578/55ac17ee-14e3-41f6-bf99-09df91fcc32d_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Sarı-Kırmızı Altın Bileklik",
+      "price": 2.3,
+      "code": "14KUP1376",
+      "features": " 14 Ayar | 8,28 Gr. Sarı-Kırmızı Altın",
+      "category": "Bileklik",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/05/13704/e4f0b88e-a2d8-4b51-9536-b8dc7d581ee3_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Sarı Altın Harf Seçilebilir Bileklik",
+      "price": 4.304,
+      "code": "14KUP1371",
+      "features": " 14 Ayar | 7,30 Gr. Sarı Altın",
+      "category": "Bileklik",
+      "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/05/19422/37e258fe-dee2-4c17-9263-ded396836016_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Kırmızı Altın Çift Alyans",
+      "price": 7.7,
+      "code": "14KUP1372",
+      "features": " 14 Ayar | 2,30-2,20 Gr. Kırmızı Altın",
+      "category": "Yüzük",
+      "freshness": "Yeni Koleksiyon",
+      "description": "Alyanslar ve tamtur özelliği taşıyan ürünler, isteğe özel kişiselleştirilmiş ürünler siparişinize özel olarak üretileceğinden dolayı iade alınmayacak ve iptal edilmeyecektir. Alyans, tamtur, harf ve boy seçimi vs kişiye özel üretim olarak işleme alınan siparişler, iade alınamamaktadır ve iptal edilememektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2022/04/04/39031/7d3556d9-82de-4833-b9ce-e388fb643a69_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Zirconia From Swarovski Koleksiyonu Beyaz Altın Yüzük",
+      "price": 2.535,
+      "code": "14KUP1375",
+      "freshness": "Yeni Koleksiyon",
+      "features": "14 Ayar | 1,67 Gr. Beyaz Altın",
+      "category": "Yüzük",
+      "description": "Alyanslar ve tamtur özelliği taşıyan ürünler, isteğe özel kişiselleştirilmiş ürünler siparişinize özel olarak üretileceğinden dolayı iade alınmayacak ve iptal edilmeyecektir. Alyans, tamtur, harf ve boy seçimi vs kişiye özel üretim olarak işleme alınan siparişler, iade alınamamaktadır ve iptal edilememektedir.",
+      "image": "https://atasay.akinoncdn.com/products/2022/03/23/32345/b24222df-b5af-48a6-b187-086ff096e555_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Sarı Altın Çoklu Kolye",
+      "price": 6.37,
+      "code": "14KUP1376",
+      "freshness": "Yeni Koleksiyon",
+      "features": "14 Ayar | 5,87 Gr. Sarı Altın",
+      "category": "Kolye",
+      "description": "Siparişlerinizi size ulaştıktan 14 gün içerisinde değiştirebilir ya da iade edebilirsiniz. Ancak, yüzük ölçüsü seçimi yapılan, üzerine yazı yazılan, özel olarak üretim istenen ya da gerektiren ürünler iade alınamaz ve iptal edilemez.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/05/16819/deaaa3cd-a8e7-452d-8892-ff1f2809b173_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Sarı Altın Bileklik",
+      "price": 1.355,
+      "code": "14KUP1476",
+      "freshness": "Yeni Koleksiyon",
+      "features": "14 Ayar | 1,25 Gr. Sarı Altın",
+      "category": "Bileklik",
+      "description": "Siparişlerinizin kargoya teslimat tarihleri ürün sayfasında gösterildiği gibidir. Siz sayfayı açtığınızda bu tarih sistemimiz tarafından oluşturulur. Türkiye içerisindeki siparişleriniz sigortalı ve ücretsiz olarak Yurtiçi Kargo gönderilir. Pandemi döneminde kargo firmalarındaki yoğunluğun artması nedeniyle siparişlerin teslimatında kısa süreli gecikmeler yaşanabilmektedir. Anlayış ve sabrınız için teşekkür ederiz.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/05/17103/dbd02ad3-5734-40ac-b975-2eda25396733_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 25,
+      "title": "0,04 Ct. Pırlanta Kolye",
+      "price": 3.285,
+      "code": "14KUP1476",
+      "freshness": "Yeni Koleksiyon",
+      "features": "8 Ayar | 2,78 Gr. Kırmızı Pırlanta | 0,04 Ct. Pırlanta",
+      "category": "Kolye",
+      "description": "Siparişlerinizin kargoya teslimat tarihleri ürün sayfasında gösterildiği gibidir. Siz sayfayı açtığınızda bu tarih sistemimiz tarafından oluşturulur. Türkiye içerisindeki siparişleriniz sigortalı ve ücretsiz olarak Yurtiçi Kargo gönderilir. Pandemi döneminde kargo firmalarındaki yoğunluğun artması nedeniyle siparişlerin teslimatında kısa süreli gecikmeler yaşanabilmektedir. Anlayış ve sabrınız için teşekkür ederiz.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/05/15644/342421a4-4a1f-4f4e-8b9e-0255cfaff27e_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Sarı Altın Çocuk Kolye",
+      "price": 2.335,
+      "code": "14KLP1476",
+      "features": "14 Ayar | 1,68 Gr. Sarı Altın",
+      "category": "Kolye",
+      "description": "Siparişlerinizin kargoya teslimat tarihleri ürün sayfasında gösterildiği gibidir. Siz sayfayı açtığınızda bu tarih sistemimiz tarafından oluşturulur. Türkiye içerisindeki siparişleriniz sigortalı ve ücretsiz olarak Yurtiçi Kargo gönderilir. Pandemi döneminde kargo firmalarındaki yoğunluğun artması nedeniyle siparişlerin teslimatında kısa süreli gecikmeler yaşanabilmektedir. Anlayış ve sabrınız için teşekkür ederiz.",
+      "image": "https://atasay.akinoncdn.com/products/2022/02/07/33762/b9471549-cd7d-467f-99f0-8d4fc8564566_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Sarı Altın İnci Küpe",
+      "price": 2.335,
+      "code": "14KLP1476",
+      "features": "14 Ayar | 2,44 Gr. Sarı Altın",
+      "category": "Küpe",
+      "description": "Siparişlerinizin kargoya teslimat tarihleri ürün sayfasında gösterildiği gibidir. Siz sayfayı açtığınızda bu tarih sistemimiz tarafından oluşturulur. Türkiye içerisindeki siparişleriniz sigortalı ve ücretsiz olarak Yurtiçi Kargo gönderilir. Pandemi döneminde kargo firmalarındaki yoğunluğun artması nedeniyle siparişlerin teslimatında kısa süreli gecikmeler yaşanabilmektedir. Anlayış ve sabrınız için teşekkür ederiz.",
+      "image": "https://atasay.akinoncdn.com/products/2021/11/05/17082/8b0c4b69-dea5-4647-b982-addbe1f257a3_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Beyaz Altın Tektaş Küpe",
+      "price": 2.315,
+      "code": "14KLP1476",
+      "features": "14 Ayar | 2,56 Gr. Beyaz Altın",
+      "category": "Küpe",
+      "description": "Siparişlerinizin kargoya teslimat tarihleri ürün sayfasında gösterildiği gibidir. Siz sayfayı açtığınızda bu tarih sistemimiz tarafından oluşturulur. Türkiye içerisindeki siparişleriniz sigortalı ve ücretsiz olarak Yurtiçi Kargo gönderilir. Pandemi döneminde kargo firmalarındaki yoğunluğun artması nedeniyle siparişlerin teslimatında kısa süreli gecikmeler yaşanabilmektedir. Anlayış ve sabrınız için teşekkür ederiz.",
+      "image": "https://atasay.akinoncdn.com/products/2022/02/28/35310/76f47350-5111-479b-a000-efa65aea508b_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 30,
+      "title": "KEŞF-İ YUNUS EMRE Koleksiyonu Sarı Altın Küpe",
+      "price": 7.315,
+      "code": "14KLP1476",
+      "features": "14 Ayar | 5,01 Gr. Sarı Altın",
+      "category": "Küpe",
+      "description": "Siparişlerinizin kargoya teslimat tarihleri ürün sayfasında gösterildiği gibidir. Siz sayfayı açtığınızda bu tarih sistemimiz tarafından oluşturulur. Türkiye içerisindeki siparişleriniz sigortalı ve ücretsiz olarak Yurtiçi Kargo gönderilir. Pandemi döneminde kargo firmalarındaki yoğunluğun artması nedeniyle siparişlerin teslimatında kısa süreli gecikmeler yaşanabilmektedir. Anlayış ve sabrınız için teşekkür ederiz.",
+      "image": "https://atasay.akinoncdn.com/products/2022/02/28/35284/a1910180-84bd-4757-a047-cae3639470d3_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 31,
+      "title": "Aura Ayın Taşı Ametist Küpe",
+      "price": 4.315,
+      "code": "14KLP1476",
+      "features": "14 Ayar | 3,42 Gr. Sarı Altın",
+      "category": "Küpe",
+      "description": "Siparişlerinizin kargoya teslimat tarihleri ürün sayfasında gösterildiği gibidir. Siz sayfayı açtığınızda bu tarih sistemimiz tarafından oluşturulur. Türkiye içerisindeki siparişleriniz sigortalı ve ücretsiz olarak Yurtiçi Kargo gönderilir. Pandemi döneminde kargo firmalarındaki yoğunluğun artması nedeniyle siparişlerin teslimatında kısa süreli gecikmeler yaşanabilmektedir. Anlayış ve sabrınız için teşekkür ederiz.",
+      "image": "https://atasay.akinoncdn.com/products/2022/01/31/33272/b37a54f6-902a-4602-b8e2-15bff6d24634_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Aura Ayın Taşı Citrine Küpe",
+      "price": 8.315,
+      "code": "14KLP1476",
+      "features": "14 Ayar | 3,52 Gr. Sarı Altın",
+      "category": "Küpe",
+      "description": "Siparişlerinizin kargoya teslimat tarihleri ürün sayfasında gösterildiği gibidir. Siz sayfayı açtığınızda bu tarih sistemimiz tarafından oluşturulur. Türkiye içerisindeki siparişleriniz sigortalı ve ücretsiz olarak Yurtiçi Kargo gönderilir. Pandemi döneminde kargo firmalarındaki yoğunluğun artması nedeniyle siparişlerin teslimatında kısa süreli gecikmeler yaşanabilmektedir. Anlayış ve sabrınız için teşekkür ederiz.",
+      "image": "https://atasay.akinoncdn.com/products/2022/02/01/32554/b4b97c85-7953-4da9-8c94-4a80fc6ee883_size800x800_cropTop.jpg"
+    },
+    {
+      "id": 33,
+      "title": "MYSTIQUE Koleksiyonu Kırmızı Altın Küpe",
+      "price": 8.315,
+      "code": "14KLP1476",
+      "features": "14 Ayar | 4,39 Gr. Kırmızı Altın",
+      "category": "Küpe",
+      "description": "Siparişlerinizin kargoya teslimat tarihleri ürün sayfasında gösterildiği gibidir. Siz sayfayı açtığınızda bu tarih sistemimiz tarafından oluşturulur. Türkiye içerisindeki siparişleriniz sigortalı ve ücretsiz olarak Yurtiçi Kargo gönderilir. Pandemi döneminde kargo firmalarındaki yoğunluğun artması nedeniyle siparişlerin teslimatında kısa süreli gecikmeler yaşanabilmektedir. Anlayış ve sabrınız için teşekkür ederiz.",
+      "image": "https://atasay.akinoncdn.com/products/2022/01/26/32412/3cb9ee81-4664-450a-a941-8e70c10dfddc_size800x800_cropTop.jpg"
+    }
+  ],
+  "cart": [],
+  "adminUsers": [
+    {
+      "email": "dilara@admin.com",
+      "password": "123admin"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "dilara tekin",
+      "email": "dilara@user.com",
+      "password": "123",
+      "mobile": "05467665109",
+      "id": 1
+    }
+  ],
+  "checkOutProducts": [
+    {
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "orders": [
+        {
+          "id": 2,
+          "title": "0,03 Ct. Pırlanta Kolye Simulant Taşlı",
+          "price": 5.34,
+          "code": "RL07494",
+          "features": " 8 Ayar | 2,15 Gr. Beyaz Pırlanta | 0,03 Ct. Pırlanta",
+          "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir",
+          "category": "Kolye",
+          "image": "https://atasay.akinoncdn.com/products/2021/11/05/19815/a6d5c901-985b-4fed-87e5-adbff002be0d_size800x800_cropTop.jpg",
+          "quantity": 1,
+          "total": 5.34,
+          "user": 1
+        },
+        {
+          "id": 3,
+          "title": "0,12 Ct. Pırlanta Kolye Simulant Taşlı",
+          "price": 12.43,
+          "code": "RL07494",
+          "features": "8 Ayar | 1,26 Gr. Beyaz Pırlanta | 0,12 Ct. Pırlanta",
+          "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir",
+          "category": "Kolye",
+          "image": "https://atasay.akinoncdn.com/products/2021/12/09/29991/29bd101b-0e8b-4f8d-acc4-bb0b60abe675_size800x800_cropTop.jpg",
+          "quantity": 1,
+          "total": 12.43,
+          "user": 1
+        }
+      ],
+      "id": 6
+    }
+  ]
+}

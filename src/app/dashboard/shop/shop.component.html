@@ -1,0 +1,42 @@
+<div class="container">
+  <div class="row">
+    <ng-container
+      *ngFor="let item of newFilterCategory | filter: searchKey:'title'|paginate:{itemsPerPage:6,currentPage:currentPg}"
+    >
+      <div
+
+        class="card col-md-3"
+      >
+
+        <img
+          [routerLink]="['/detail', item.id]"
+          src="{{ item.image }}"
+          alt=""
+        />
+        <h5 style="font-size: 18px; font-weight: 300">{{ item.title }}</h5>
+        <p
+          style="
+            font-size: 15px; font-weight: 300
+          "
+        >
+          {{ item.features }}
+        </p>
+        <p style="font-size: 10px; font-weight: 500">Fiyat:{{ item.price }} $</p>
+        <button
+          style="background-color: #f8a48d; border-color: #f8a48d"
+          class="btn btn-primary"
+          (click)="addtocart(item)"
+        >
+          Add To Cart
+        </button>
+
+      </div>
+
+    </ng-container>
+    <pagination-controls (pageChange)="currentPg = $event"></pagination-controls>
+  </div>
+
+
+</div>
+
+

@@ -1,0 +1,58 @@
+<h1 mat-dialog-title>Ürün Ekle</h1>
+<div mat-dialog-content>
+  <form [formGroup]="productForm">
+    <mat-form-field appearance="outline">
+      <mat-label>Ürün Adı</mat-label>
+      <input formControlName="title" matInput placeholder="AD" /> </mat-form-field
+    ><br />
+
+    <mat-form-field appearance="outline">
+      <mat-label>Kategori</mat-label>
+      <mat-select formControlName="category" placeholder="Kategori">
+        <mat-option value="Kolye">Kolye</mat-option>
+        <mat-option value="Yüzük">Yüzük</mat-option>
+        <mat-option value="Bileklik">Bileklik</mat-option>
+        <mat-option value="Küpe">Küpe</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+      <mat-label>Tarih Seçiniz</mat-label>
+      <input formControlName="date" matInput [matDatepicker]="picker" />
+      <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+      <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+
+    <mat-label><h1>Ürün Hakkında</h1></mat-label>
+    <mat-radio-group formControlName="freshness" class="example-radio-group">
+      <mat-radio-button
+        class="example-radio-button"
+        *ngFor="let fresh of freshnessList"
+        [value]="fresh"
+        >{{ fresh }}
+      </mat-radio-button>
+    </mat-radio-group>
+    <mat-form-field appearance="outline">
+      <mat-label>Fiyat</mat-label>
+      <input   formControlName ="price" matInput type="number" placeholder="Fiyat" />
+    </mat-form-field>
+    <mat-form-field appearance="outline">
+      <mat-label>Özellikler</mat-label>
+      <textarea  formControlName="features"  matInput></textarea>
+    </mat-form-field>
+    <mat-form-field appearance="outline">
+      <mat-label>Açıklama</mat-label>
+      <textarea  formControlName="description"  matInput></textarea>
+    </mat-form-field>
+
+      <div (click)="uploadFile.click()">
+        <button mat-raised-button style="color:#f8a48d">Choose File</button>
+        <input formControlName ="image"   #uploadFile (change)="upload($event)" type='file' style="display:none"/>
+     </div>
+
+  </form>
+</div>
+<div mat-dialog-action [align]="'end'">
+  <button mat-raised-button style="color:#212529" mat-dialog-close>Kapat</button>
+  <button  style ="margin-left: 8px;" mat-raised-button style="color:#f8a48d" (click)="addProduct()">{{actionBtn}}</button>
+</div>

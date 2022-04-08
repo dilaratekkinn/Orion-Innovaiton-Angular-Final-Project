@@ -1,0 +1,70 @@
+<div class="container bootdey">
+  <div class="col-md-12">
+    <section class="panel">
+      <div class="panel-body" style="padding-top: 30px">
+        <div class="col-md-6">
+          <div class="pro-img-details" style="margin-right: 40px; float: left">
+            <img src="{{ product?.image }}" alt="" />
+          </div>
+        </div>
+        <div class="col-md-6" style="float: right; margin-top: 50px">
+          <h4 class="pro-d-title" style="font-size: 22px; font-weight: 400">
+            <a>
+              {{ product?.title }}
+            </a>
+          </h4>
+          <p class="pro-d-title" style="font-size: 15px; font-weight: 100">
+            {{ product?.features }}
+          </p>
+          <p class="pro-d-title" style="font-size: 15px; font-weight: 100">
+            {{ product?.description }}
+          </p>
+          <div class="product_meta" style="font-size: 15px; font-weight: 100">
+            <span>Kategori :{{ product?.category }}</span
+            ><br />
+            <span style="color: #f8a48d">{{ product?.freshness }}</span>
+          </div>
+          <div class="m-bot15" style="font-size: 15px; font-weight: 100">
+            <span class="pro-price">Fiyat :{{ product?.price }} $</span>
+          </div>
+
+          <p class="pro-d-title">
+            <button
+              [routerLink]="['/shop']"
+              style="
+                background-color: #f8a48d;
+                border-color: #f8a48d;
+                margin-top: 20px;
+              "
+              class="btn btn-danger"
+            >
+              Alışverişe Devam Et
+            </button>
+          </p>
+          <table
+            class="table table-borderless"
+            style="
+              border: 1px solid #f8a48d;
+              font-size: 15px;
+              font-weight: 100;
+              width: 200px;
+              margin-top: 30px;
+            "
+          >
+            <tbody>
+              <tr>
+                <td>tekkinnshop Güvencesiyle Alışveriş!</td>
+              </tr>
+              <tr>
+                <td>Taksit İmkanı</td>
+              </tr>
+              <tr>
+                <td>14 Gün İçinde İade Hakkı</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>

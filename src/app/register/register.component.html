@@ -1,0 +1,103 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="card">
+        <div class="text-center">
+          <h1 style="border: 5px solid #fff; border-radius: 12px; padding: 5px; font-weight: 100;" >Merhaba,Üye Olun!</h1>
+          <h5>tekkinnshop’a üye olun ve üye olmanın ayrıcalıklarını yaşayın!</h5>
+        </div>
+        <form [formGroup]="signupForm" (ngSubmit)="signUp()">
+          <div class="form-group">
+            <label for="exampleInputName1">Ad-Soyad</label>
+            <input
+              formControlName="fullname"
+              type="text"
+              class="form-control"
+              id="exampleInputEmail1"
+              placeholder="Ad Ve Soyad..."
+            />
+            <span
+              class="text-danger"
+              *ngIf="
+                signupForm.controls['fullname'].dirty &&
+                signupForm.hasError('required', 'fullname')
+              "
+              >Ad-Soyad Boş Bırakılamaz !</span
+            >
+          </div>
+
+          <div class="form-group">
+            <label for="exampleInputMobile1">Telefon Numarası</label>
+            <input
+              formControlName="mobile"
+              type="text"
+              class="form-control"
+              id="exampleInputMobile1"
+              placeholder="Telefon Numaranız..."
+            />
+            <span
+              class="text-danger"
+              *ngIf="
+                signupForm.controls['mobile'].dirty &&
+                signupForm.hasError('required', 'mobile')
+              "
+              >Telefon Numarası Boş Bırakılamaz !</span
+            >
+          </div>
+
+          <div class="form-group">
+            <label for="exampleInputEmail1">Email adresi</label>
+            <input
+              formControlName="email"
+              type="email"
+              class="form-control"
+              id="exampleInputEmail1"
+              aria-describedby="emailHelp"
+              placeholder="E-mail Adresiniz.."
+            />
+            <span
+              class="text-danger"
+              *ngIf="
+                signupForm.controls['email'].dirty &&
+                signupForm.hasError('required', 'email')
+              "
+              >E-mail Adresi Boş Bırakılamaz !</span
+            >
+          </div>
+
+          <div class="form-group">
+            <label for="exampleInputPassword1">Şifre</label>
+            <input
+              formControlName="password"
+              type="password"
+              class="form-control"
+              id="exampleInputPassword1"
+              placeholder="Şifreniz..."
+            />
+            <span
+              class="text-danger"
+              *ngIf="
+                signupForm.controls['password'].dirty &&
+                signupForm.hasError('required', 'password')
+              "
+              >Şifre Boş Bırakılamaz !</span
+            >
+          </div>
+          <button
+            [disabled]="!signupForm.valid"
+            style="
+              margin-top: 12px;
+              background-color: #353433;
+              border-color: #353433;
+            "
+            type="submit"
+            class="btn btn-primary mb-2"
+          >
+            Kayıt Ol
+          </button>
+        </form>
+        <a class="link" routerLink="/login">*Zaten Üye Misiniz? Giriş Yapın!</a>
+      </div>
+    </div>
+  </div>
+</div>

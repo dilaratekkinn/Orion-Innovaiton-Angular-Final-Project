@@ -1,0 +1,40 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Arapey:ital@1&display=swap");
+
+.card{
+  height: 60vh;
+  margin:25px;
+  padding:25px;
+}
+
+h4,
+h6{
+  font-weight: 400;
+
+}
+
+.center{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  text-align: center;
+
+}
+
+.card-table{
+  padding-top: 30px;
+  position: relative;
+  display: flex;
+  flex-direction: none;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border:1px solid rgba(0,0,0,0.2);
+  border-radius: .25rem;
+}
+.table th{
+  font-weight:100;
+
+}
+

@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Arapey:ital@1&display=swap");
+
+.card {
+  margin-top: 50px;
+  border: none;
+  width: 500px;
+  padding: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #f8a48d;
+}
+.card h1,
+h5,
+span {
+  color: #212529;
+}
+
+label {
+  font-size: 15px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  color: #212529;
+}
+
+.form-group input {
+  font-size: 15px;
+
+}
+
+.link {
+  margin-top: 10px;
+  color: #212529;
+}
+
