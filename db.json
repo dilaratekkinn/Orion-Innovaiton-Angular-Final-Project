@@ -336,17 +336,19 @@
       "image": "https://atasay.akinoncdn.com/products/2022/01/26/32412/3cb9ee81-4664-450a-a941-8e70c10dfddc_size800x800_cropTop.jpg"
     }
   ],
-  "cart": [],
+  "cart": [
+    {}
+  ],
   "adminUsers": [
     {
-      "email": "dilara@admin.com",
+      "email": "test@admin.com",
       "password": "123admin"
     }
   ],
   "signupUsers": [
     {
-      "fullname": "dilara tekin",
-      "email": "dilara@user.com",
+      "fullname": "test user",
+      "email": "test@user.com",
       "password": "123",
       "mobile": "05467665109",
       "id": 1
@@ -370,19 +372,6 @@
           "image": "https://atasay.akinoncdn.com/products/2021/11/05/19815/a6d5c901-985b-4fed-87e5-adbff002be0d_size800x800_cropTop.jpg",
           "quantity": 1,
           "total": 5.34,
-          "user": 1
-        },
-        {
-          "id": 3,
-          "title": "0,12 Ct. Pırlanta Kolye Simulant Taşlı",
-          "price": 12.43,
-          "code": "RL07494",
-          "features": "8 Ayar | 1,26 Gr. Beyaz Pırlanta | 0,12 Ct. Pırlanta",
-          "description": "Ürünlerimizin tamamı el yapımı olduğu için belirtilen ağırlık ve karatta (+/-) %5 sapma oluşabilmektedir",
-          "category": "Kolye",
-          "image": "https://atasay.akinoncdn.com/products/2021/12/09/29991/29bd101b-0e8b-4f8d-acc4-bb0b60abe675_size800x800_cropTop.jpg",
-          "quantity": 1,
-          "total": 12.43,
           "user": 1
         }
       ],
