@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
+-You can reach app video from the link:
+
+> https://www.youtube.com/watch?v=bh4ILZIwM1A
+
 - To login as admin;
   > "email": "test@admin.com", "password": "123admin"
 - To login an User;
