@@ -1,11 +1,11 @@
 # Orion Innovation Bootcamp Graduation Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
--To login as admin;
 
-- "email": "test@admin.com", "password": "123admin"
+- To login as admin;
+  > "email": "test@admin.com", "password": "123admin"
 - To login an User;
-- "email": "test@user.com","password": "123"
+  > "email": "test@user.com","password": "123"
 
 ## Orion Innovation Angular/Frontend Bootcamp Bitirme Projesi
 
